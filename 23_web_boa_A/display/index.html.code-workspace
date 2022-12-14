@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../index.html"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../mi primer html"
+		},
+		{
+			"path": "../../pizzeria"
+		},
+		{
+			"path": "../../estilos"
+		},
+		{
+			"path": "../../etiquetas de texto html"
+		},
+		{
+			"path": "../../mini tarea html"
+		},
+		{
+			"path": "../../aprendiendo css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "23_web_boa_A"
+	}
+}
