@@ -1,0 +1,92 @@
+body{ 
+    margin: 0;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+
+}
+
+nav a{ 
+    padding: 10px;
+    
+}
+
+nav a:hover{ 
+    color: white;
+    background-color: black;
+    border-radius: 45%;
+}
+
+header{ 
+    display: flex;
+    height: 60px;
+    background-color: cyan;
+    justify-content: start;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+.logo{ 
+    display: flex;
+    width: 30px;
+    align-items: center;
+}
+.logo img{ 
+    display: flex;
+    border-radius: 50%;
+
+}
+
+@media screen and (max-width: 850px){
+    
+    
+}
+.buscador{ 
+    height: 30px;
+    width: 350px;
+    
+}
+
+*{
+    box-sizing:border-box ;
+}
+body{ margin: 0px;
+    padding: 0px;
+
+
+}
+img{
+    width: 100%;
+
+}
+.cuerpo{ 
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+
+.columnas{ 
+    flex: 25%;
+    padding: 5px;
+    
+} 
+
+.columnas img{ 
+    margin-top: 5px;
+    border-radius: 5%;
+}
+
+
+
+@media screen and (max-width: 425px){
+    .columnas{ 
+        flex: 50%;
+    } 
+    body{ 
+        background-color: red;
+    }
+    
+}

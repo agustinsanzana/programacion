@@ -1,0 +1,23 @@
+body{ 
+    background-color: cyan;
+}
+
+
+
+
+@media screen and (min-width: 421px){
+    body{ 
+        background-color: pink;
+    }
+    .button{ 
+        background-color: black;
+    }
+}
+
+.button{
+    background-color: red;
+    border:solid red;
+    color: white;
+    padding: 10px 40px 10px 40px;
+
+}
